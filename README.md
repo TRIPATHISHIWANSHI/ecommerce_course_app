@@ -1,3 +1,24 @@
+The website look like this:
+
+![Screenshot (128)](https://github.com/TRIPATHISHIWANSHI/ecommerce_course_app/assets/112747153/45b5931f-e153-47a7-bd4e-2813414cc94e)
+
+ when i click any of the category like web development course:
+ ![image](https://github.com/TRIPATHISHIWANSHI/ecommerce_course_app/assets/112747153/80af7a39-46c6-4988-b4e8-80a3e7c8c7bc)
+
+i can add in cart also:
+![image](https://github.com/TRIPATHISHIWANSHI/ecommerce_course_app/assets/112747153/bbe002a0-ffbd-47d1-98a5-0d3c101cea74)
+![image](https://github.com/TRIPATHISHIWANSHI/ecommerce_course_app/assets/112747153/5ea78e4d-fa9a-4a3e-965e-685bd7d96369)
+
+
+It has login/log out/sign up functionality also
+![image](https://github.com/TRIPATHISHIWANSHI/ecommerce_course_app/assets/112747153/91edb96c-5a4b-4a49-88e4-5e29d6eafb49)
+![image](https://github.com/TRIPATHISHIWANSHI/ecommerce_course_app/assets/112747153/41114539-3d0b-46f8-b437-1ec7e061db8d)
+
+ after i login..it has logout option also
+ ![image](https://github.com/TRIPATHISHIWANSHI/ecommerce_course_app/assets/112747153/34b2650e-a258-4188-a7d0-8e2e65666b6d)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
